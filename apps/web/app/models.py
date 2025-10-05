@@ -65,7 +65,7 @@ class MarketAnalysis(Base):
 class TechnicalIndicator(Base):
     __tablename__ = "technical_indicators"
     id = Column(Integer, primary_key=True, index=True, autoincrement=True)
-    ticker = Column(String, ForeignKey("stocks.ticker"))
+    ticker = Column(String)
     rsi_14 = Column(String)
     macd = Column(String)
     moving_avg_50 = Column(String)
