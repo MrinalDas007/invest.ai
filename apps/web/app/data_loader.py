@@ -4,7 +4,7 @@ import os
 from app.database import SessionLocal
 from app import models
 
-DATA_DIR = "../data"
+DATA_DIR = "./data"
 
 TABLE_FILE_MODEL_MAP = {
     "nifty_indices.json": models.NiftyIndex,
