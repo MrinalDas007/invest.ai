@@ -44,7 +44,7 @@ export default function Dashboard() {
   const fetchNiftyData = async () => {
     try {
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/stocks/nifty-indices"
+        "https://invest-ai-1ic7.onrender.com/api/stocks/nifty-indices"
       );
       if (!response.ok) {
         throw new Error(`Failed to fetch Nifty data: ${response.status}`);
@@ -78,7 +78,7 @@ export default function Dashboard() {
       }
 
       const response = await fetch(
-        `https://p09ns6pb-4000.inc1.devtunnels.ms/api/stocks/recommendations?alert_time=${alert_time}&limit=5`
+        `https://invest-ai-1ic7.onrender.com/api/stocks/recommendations?alert_time=${alert_time}&limit=5`
       );
       if (!response.ok) {
         throw new Error(`Failed to fetch recommendations: ${response.status}`);
@@ -99,7 +99,7 @@ export default function Dashboard() {
   const generateRecommendations = async (alert_time) => {
     try {
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/stocks/real-time-update",
+        "https://invest-ai-1ic7.onrender.com/api/stocks/real-time-update",
         {
           method: "POST",
           headers: {
@@ -135,7 +135,7 @@ export default function Dashboard() {
   const updateMarketData = async () => {
     try {
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/stocks/real-time-update",
+        "https://invest-ai-1ic7.onrender.com/api/stocks/real-time-update",
         {
           method: "POST",
           headers: {

@@ -1,50 +1,92 @@
 [
   {
+    "id": 1,
     "name": "Nifty 50",
-    "current_value": "21456.80",
-    "change_value": "156.32",
-    "change_percent": "0.73",
-    "last_updated": "2025-09-30T13:43:59.797Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "current_value": 22755.3,
+    "change_value": 85.6,
+    "change_percent": 0.38,
+    "last_updated": "2025-10-04",
+    "created_at": "2025-09-30"
   },
   {
+    "id": 2,
     "name": "Nifty Bank",
-    "current_value": "48234.15",
-    "change_value": "-89.45",
-    "change_percent": "-0.18",
-    "last_updated": "2025-09-30T13:43:59.797Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "current_value": 48721.5,
+    "change_value": 265.1,
+    "change_percent": 0.55,
+    "last_updated": "2025-10-04",
+    "created_at": "2025-09-30"
   },
   {
+    "id": 3,
     "name": "Nifty IT",
-    "current_value": "31789.60",
-    "change_value": "245.80",
-    "change_percent": "0.78",
-    "last_updated": "2025-09-30T13:43:59.797Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "current_value": 34187.9,
+    "change_value": -110.2,
+    "change_percent": -0.32,
+    "last_updated": "2025-10-04",
+    "created_at": "2025-09-30"
   },
   {
+    "id": 4,
     "name": "Nifty Auto",
-    "current_value": "17234.25",
-    "change_value": "67.45",
-    "change_percent": "0.39",
-    "last_updated": "2025-09-30T13:43:59.797Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "current_value": 23150.7,
+    "change_value": 195.3,
+    "change_percent": 0.85,
+    "last_updated": "2025-10-04",
+    "created_at": "2025-09-30"
   },
   {
+    "id": 5,
     "name": "Nifty Pharma",
-    "current_value": "16789.30",
-    "change_value": "123.45",
-    "change_percent": "0.74",
-    "last_updated": "2025-09-30T13:43:59.797Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "current_value": 18210.45,
+    "change_value": 75.3,
+    "change_percent": 0.41,
+    "last_updated": "2025-10-04",
+    "created_at": "2025-09-30"
   },
   {
+    "id": 6,
     "name": "Nifty FMCG",
-    "current_value": "52341.80",
-    "change_value": "-45.60",
-    "change_percent": "-0.09",
-    "last_updated": "2025-09-30T13:43:59.797Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "current_value": 54298.15,
+    "change_value": 145.8,
+    "change_percent": 0.27,
+    "last_updated": "2025-10-04",
+    "created_at": "2025-09-30"
+  },
+  {
+    "id": 7,
+    "name": "NIFTY METAL",
+    "current_value": 8875.25,
+    "change_value": 52.1,
+    "change_percent": 0.59,
+    "last_updated": "2025-10-04",
+    "created_at": null
+  },
+  {
+    "id": 8,
+    "name": "NIFTY ENERGY",
+    "current_value": 38450.6,
+    "change_value": 410.7,
+    "change_percent": 1.08,
+    "last_updated": "2025-10-04",
+    "created_at": null
+  },
+  {
+    "id": 9,
+    "name": "NIFTY REALTY",
+    "current_value": 965.8,
+    "change_value": 15.5,
+    "change_percent": 1.63,
+    "last_updated": "2025-10-04",
+    "created_at": null
+  },
+  {
+    "id": 10,
+    "name": "NIFTY PSU BANK",
+    "current_value": 7285.9,
+    "change_value": 72.4,
+    "change_percent": 1.0,
+    "last_updated": "2025-10-04",
+    "created_at": null
   }
 ]

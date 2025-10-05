@@ -52,7 +52,7 @@ export default function Analysis() {
       setError(null);
 
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/stocks/analysis"
+        "https://invest-ai-1ic7.onrender.com/api/stocks/analysis"
       );
       if (!response.ok) {
         throw new Error(`Failed to fetch market analysis: ${response.status}`);

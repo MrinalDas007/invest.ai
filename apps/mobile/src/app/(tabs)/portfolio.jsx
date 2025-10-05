@@ -52,7 +52,7 @@ export default function Portfolio() {
       if (!refreshing) setLoading(true);
 
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/stock/portfolio"
+        "https://invest-ai-1ic7.onrender.com/api/stock/portfolio"
       );
       if (!response.ok) throw new Error(`Failed: ${response.status}`);
       const data = await response.json();
@@ -132,7 +132,7 @@ export default function Portfolio() {
 
     try {
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/stock/portfolio",
+        "https://invest-ai-1ic7.onrender.com/api/stock/portfolio",
         {
           method: "POST",
           headers: {

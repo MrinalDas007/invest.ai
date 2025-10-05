@@ -54,7 +54,7 @@ export default function Recommendations() {
       setError(null);
 
       const response = await fetch(
-        `https://p09ns6pb-4000.inc1.devtunnels.ms/api/stocks/recommendations?alert_time=${timeSlot}&limit=10`
+        `https://invest-ai-1ic7.onrender.com/api/stocks/recommendations?alert_time=${timeSlot}&limit=10`
       );
       if (!response.ok) {
         throw new Error(`Failed to fetch recommendations: ${response.status}`);
@@ -78,7 +78,7 @@ export default function Recommendations() {
   const generateRecommendations = async (timeSlot) => {
     try {
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/stocks/real-time-update",
+        "https://invest-ai-1ic7.onrender.com/api/stocks/real-time-update",
         {
           method: "POST",
           headers: {

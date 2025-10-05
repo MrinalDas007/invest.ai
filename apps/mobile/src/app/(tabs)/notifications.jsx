@@ -55,7 +55,7 @@ export default function Notifications() {
       setError(null);
 
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/notifications"
+        "https://invest-ai-1ic7.onrender.com/api/notifications"
       );
       if (!response.ok) {
         throw new Error(
@@ -83,7 +83,7 @@ export default function Notifications() {
     try {
       console.log("Sending prefs:", updatedPrefs);
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/notifications",
+        "https://invest-ai-1ic7.onrender.com/api/notifications",
         {
           method: "POST",
           headers: {
@@ -117,7 +117,7 @@ export default function Notifications() {
   const markAsRead = async (notificationId) => {
     try {
       const response = await fetch(
-        "https://p09ns6pb-4000.inc1.devtunnels.ms/api/notifications",
+        "https://invest-ai-1ic7.onrender.com/api/notifications",
         {
           method: "POST",
           headers: {

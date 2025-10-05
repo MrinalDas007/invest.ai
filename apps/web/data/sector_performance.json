@@ -1,42 +1,335 @@
 [
   {
-    "sector_name": "Information Technology",
-    "performance_percent": "2.30",
+    "id": 6,
+    "sector_name": "Banking",
+    "performance_percent": "0.45",
     "trend": "positive",
-    "market_cap": null,
-    "analysis_date": "2025-09-30T00:00:00.000Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "market_cap": "50.5",
+    "analysis_date": "2025-10-03",
+    "created_at": "2025-10-03"
   },
   {
+    "id": 15,
+    "sector_name": "Pharma & Healthcare",
+    "performance_percent": "0.45",
+    "trend": "positive",
+    "market_cap": "20.0",
+    "analysis_date": "2025-10-03",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 32,
+    "sector_name": "Power",
+    "performance_percent": "0.25",
+    "trend": "positive",
+    "market_cap": "35.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 33,
+    "sector_name": "Telecom",
+    "performance_percent": "0.2",
+    "trend": "positive",
+    "market_cap": "50.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 2,
     "sector_name": "Financial Services",
-    "performance_percent": "1.80",
+    "performance_percent": "0.65",
     "trend": "positive",
-    "market_cap": null,
-    "analysis_date": "2025-09-30T00:00:00.000Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "market_cap": "1850.25",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-09-30"
   },
   {
+    "id": 17,
+    "sector_name": "Metal",
+    "performance_percent": "-0.49",
+    "trend": "negative",
+    "market_cap": "1100000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 3,
     "sector_name": "Automobile",
-    "performance_percent": "-0.50",
-    "trend": "negative",
-    "market_cap": null,
-    "analysis_date": "2025-09-30T00:00:00.000Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
-  },
-  {
-    "sector_name": "Pharmaceuticals",
-    "performance_percent": "0.90",
+    "performance_percent": "0.75",
     "trend": "positive",
-    "market_cap": null,
-    "analysis_date": "2025-09-30T00:00:00.000Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "market_cap": "380.15",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-09-30"
   },
   {
-    "sector_name": "Fast Moving Consumer Goods",
-    "performance_percent": "-0.20",
+    "id": 19,
+    "sector_name": "PSU Bank",
+    "performance_percent": "-0.47",
     "trend": "negative",
-    "market_cap": null,
-    "analysis_date": "2025-09-30T00:00:00.000Z",
-    "created_at": "2025-09-30T13:43:59.797Z"
+    "market_cap": "800000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 22,
+    "sector_name": "Private Bank",
+    "performance_percent": "-0.05",
+    "trend": "negative",
+    "market_cap": "4000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 25,
+    "sector_name": "Infra",
+    "performance_percent": "1.05",
+    "trend": "positive",
+    "market_cap": "1800000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 11,
+    "sector_name": "Media & Entertainment",
+    "performance_percent": "0.2",
+    "trend": "positive",
+    "market_cap": "75.6",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 13,
+    "sector_name": "Chemicals",
+    "performance_percent": "0.7",
+    "trend": "positive",
+    "market_cap": "230.7",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 14,
+    "sector_name": "Capital Goods",
+    "performance_percent": "0.8",
+    "trend": "positive",
+    "market_cap": "310.2",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 18,
+    "sector_name": "Energy",
+    "performance_percent": "0.6",
+    "trend": "positive",
+    "market_cap": "750.3",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 21,
+    "sector_name": "Pharma",
+    "performance_percent": "0.55",
+    "trend": "positive",
+    "market_cap": "22.1",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 27,
+    "sector_name": "PSU Banking",
+    "performance_percent": "1.21",
+    "trend": "positive",
+    "market_cap": "8.7",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 24,
+    "sector_name": "Healthcare",
+    "performance_percent": "0.45",
+    "trend": "positive",
+    "market_cap": "520.1",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 34,
+    "sector_name": "PSU Banks",
+    "performance_percent": "0.95",
+    "trend": "positive",
+    "market_cap": "270.9",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 1,
+    "sector_name": "Information Technology",
+    "performance_percent": "-0.32",
+    "trend": "negative",
+    "market_cap": "92000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-09-30"
+  },
+  {
+    "id": 4,
+    "sector_name": "Pharmaceuticals",
+    "performance_percent": "0.41",
+    "trend": "positive",
+    "market_cap": "26500000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-09-30"
+  },
+  {
+    "id": 7,
+    "sector_name": "Metals & Mining",
+    "performance_percent": "0.59",
+    "trend": "positive",
+    "market_cap": "21000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 8,
+    "sector_name": "Oil & Gas",
+    "performance_percent": "1.08",
+    "trend": "positive",
+    "market_cap": "46000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 9,
+    "sector_name": "Realty",
+    "performance_percent": "1.63",
+    "trend": "positive",
+    "market_cap": "16000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 12,
+    "sector_name": "Infrastructure",
+    "performance_percent": "0.95",
+    "trend": "positive",
+    "market_cap": "30000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 16,
+    "sector_name": "FMCG",
+    "performance_percent": "0.27",
+    "trend": "positive",
+    "market_cap": "61000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 28,
+    "sector_name": "Real Estate",
+    "performance_percent": "0.6",
+    "trend": "positive",
+    "market_cap": "10000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 29,
+    "sector_name": "Private Sector Banks",
+    "performance_percent": "0.45",
+    "trend": "positive",
+    "market_cap": "100000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 20,
+    "sector_name": "Consumer Durables",
+    "performance_percent": "0.7",
+    "trend": "positive",
+    "market_cap": "19500000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 23,
+    "sector_name": "Media",
+    "performance_percent": "0.15",
+    "trend": "positive",
+    "market_cap": "8000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 5,
+    "sector_name": "Fast Moving Consumer Goods",
+    "performance_percent": "0.3",
+    "trend": "positive",
+    "market_cap": "70000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-09-30"
+  },
+  {
+    "id": 35,
+    "sector_name": "Financials",
+    "performance_percent": "0.65",
+    "trend": "positive",
+    "market_cap": "155000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 36,
+    "sector_name": "Automobiles",
+    "performance_percent": "0.85",
+    "trend": "positive",
+    "market_cap": "36000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 37,
+    "sector_name": "Healthcare Services",
+    "performance_percent": "0.5",
+    "trend": "positive",
+    "market_cap": "12000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 26,
+    "sector_name": "Metal & Mining",
+    "performance_percent": "1.08",
+    "trend": "positive",
+    "market_cap": "45000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 30,
+    "sector_name": "Pharmaceuticals & Healthcare",
+    "performance_percent": "0.75",
+    "trend": "positive",
+    "market_cap": "85000000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
+  },
+  {
+    "id": 10,
+    "sector_name": "Public Sector Banks",
+    "performance_percent": "2.35",
+    "trend": "positive",
+    "market_cap": "6400000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-03"
+  },
+  {
+    "id": 31,
+    "sector_name": "Automobiles & Components",
+    "performance_percent": "0.88",
+    "trend": "positive",
+    "market_cap": "11200000000000.0",
+    "analysis_date": "2025-10-04",
+    "created_at": "2025-10-04"
   }
 ]
