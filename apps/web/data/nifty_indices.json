@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Nifty 50",
+    "current_value": "21456.80",
+    "change_value": "156.32",
+    "change_percent": "0.73",
+    "last_updated": "2025-09-30T13:43:59.797Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "name": "Nifty Bank",
+    "current_value": "48234.15",
+    "change_value": "-89.45",
+    "change_percent": "-0.18",
+    "last_updated": "2025-09-30T13:43:59.797Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "name": "Nifty IT",
+    "current_value": "31789.60",
+    "change_value": "245.80",
+    "change_percent": "0.78",
+    "last_updated": "2025-09-30T13:43:59.797Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "name": "Nifty Auto",
+    "current_value": "17234.25",
+    "change_value": "67.45",
+    "change_percent": "0.39",
+    "last_updated": "2025-09-30T13:43:59.797Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "name": "Nifty Pharma",
+    "current_value": "16789.30",
+    "change_value": "123.45",
+    "change_percent": "0.74",
+    "last_updated": "2025-09-30T13:43:59.797Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "name": "Nifty FMCG",
+    "current_value": "52341.80",
+    "change_value": "-45.60",
+    "change_percent": "-0.09",
+    "last_updated": "2025-09-30T13:43:59.797Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  }
+]

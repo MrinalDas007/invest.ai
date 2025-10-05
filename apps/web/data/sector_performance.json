@@ -1,0 +1,42 @@
+[
+  {
+    "sector_name": "Information Technology",
+    "performance_percent": "2.30",
+    "trend": "positive",
+    "market_cap": null,
+    "analysis_date": "2025-09-30T00:00:00.000Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "sector_name": "Financial Services",
+    "performance_percent": "1.80",
+    "trend": "positive",
+    "market_cap": null,
+    "analysis_date": "2025-09-30T00:00:00.000Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "sector_name": "Automobile",
+    "performance_percent": "-0.50",
+    "trend": "negative",
+    "market_cap": null,
+    "analysis_date": "2025-09-30T00:00:00.000Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "sector_name": "Pharmaceuticals",
+    "performance_percent": "0.90",
+    "trend": "positive",
+    "market_cap": null,
+    "analysis_date": "2025-09-30T00:00:00.000Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  },
+  {
+    "sector_name": "Fast Moving Consumer Goods",
+    "performance_percent": "-0.20",
+    "trend": "negative",
+    "market_cap": null,
+    "analysis_date": "2025-09-30T00:00:00.000Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  }
+]

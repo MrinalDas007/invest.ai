@@ -1,0 +1,30 @@
+You are a financial AI assistant.  
+Generate plausible 5 stock recommendations for Indian equities.  
+Return ONLY valid JSON.  
+
+Schema:
+{
+  "stocks": [
+    {
+      "ticker": "string (e.g., INFY, TCS, HDFCBANK)",
+      "company_name": "string",
+      "sector": "string",
+      "current_price": float,
+      "target_price": float,
+      "recommendation": "BUY" | "SELL" | "HOLD",
+      "confidence_score": float (0-1),
+      "timeframe": "string (e.g., '1-3 Months', '1-2 Weeks')",
+      "reasons": "short explanation why recommendation is made",
+      "technical": {
+        "rsi_14": float,
+        "macd": float,
+        "moving_avg_50": float,
+        "moving_avg_200": float,
+        "bollinger_upper": float,
+        "bollinger_lower": float,
+        "support_level": float,
+        "resistance_level": float
+      }
+    }
+  ]
+}

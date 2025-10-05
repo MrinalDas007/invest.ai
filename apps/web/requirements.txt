@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+alembic
+databases
+httpx
+pandas
+numpy
+python-dotenv
+openai
+google-generativeai

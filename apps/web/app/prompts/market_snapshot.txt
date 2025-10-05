@@ -1,0 +1,30 @@
+You are a financial AI assistant.  
+Generate a plausible real-time snapshot of the Indian stock market for all nifty indices and all sectors.  
+Return ONLY valid JSON.  
+
+Schema:
+{
+  "nifty_indices": [
+    {
+      "name": "string (e.g., NIFTY 50, NIFTY BANK, NIFTY IT, NIFTY PHARMA, NIFTY FMCG, NIFTY AUTO, NIFTY METAL, NIFTY ENERGY, NIFTY REALTY, NIFTY PSU BANK)",
+      "current_value": float,
+      "change_value": float,
+      "change_percent": float
+    }
+  ],
+  "sentiment": {
+    "bullish_sentiment": float (0-100),
+    "bearish_sentiment": float (0-100),
+    "market_trend": "Bullish" | "Bearish" | "Neutral",
+    "fear_greed_index": float (0-100),
+    "volatility_index": float
+  },
+  "sectors": [
+    {
+      "sector_name": "string",
+      "performance_percent": float,
+      "trend": "positive" | "negative",
+      "market_cap": float
+    }
+  ]
+}

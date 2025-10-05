@@ -1,0 +1,12 @@
+[
+  {
+    "user_id": "default_user",
+    "notification_type": "stock_recommendation",
+    "title": "Afternoon Stock Picks",
+    "message": "Afternoon Alert: 4 new stock recommendations available. Check them out!",
+    "ticker": null,
+    "sent_at": "2025-09-30T14:06:24.813Z",
+    "read_at": null,
+    "created_at": "2025-09-30T14:06:24.813Z"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "ticker": "ADANIPOWER",
+    "company_name": "Adani Power Ltd",
+    "sector": "Chemicals",
+    "nifty_group": "Nifty 50",
+    "buy_price": "43.95",
+    "current_price": "147.38",
+    "change_value": "1551.40",
+    "change_percent": "235.31",
+    "volume": "15",
+    "market_cap": "16500000000000",
+    "last_updated": "2025-09-30T13:43:59.797Z",
+    "created_at": "2025-09-30T13:43:59.797Z"
+  }
+]
