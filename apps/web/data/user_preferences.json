@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "user_id": "default_user",
     "morning_alerts_enabled": true,
     "afternoon_alerts_enabled": true,

@@ -1,6 +1,5 @@
 [
   {
-    "id": 6,
     "sector_name": "Banking",
     "performance_percent": "0.45",
     "trend": "positive",
@@ -9,7 +8,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 15,
     "sector_name": "Pharma & Healthcare",
     "performance_percent": "0.45",
     "trend": "positive",
@@ -18,7 +16,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 32,
     "sector_name": "Power",
     "performance_percent": "0.25",
     "trend": "positive",
@@ -27,7 +24,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 33,
     "sector_name": "Telecom",
     "performance_percent": "0.2",
     "trend": "positive",
@@ -36,7 +32,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 2,
     "sector_name": "Financial Services",
     "performance_percent": "0.65",
     "trend": "positive",
@@ -45,7 +40,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 17,
     "sector_name": "Metal",
     "performance_percent": "-0.49",
     "trend": "negative",
@@ -54,7 +48,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 3,
     "sector_name": "Automobile",
     "performance_percent": "0.75",
     "trend": "positive",
@@ -63,7 +56,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 19,
     "sector_name": "PSU Bank",
     "performance_percent": "-0.47",
     "trend": "negative",
@@ -72,7 +64,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 22,
     "sector_name": "Private Bank",
     "performance_percent": "-0.05",
     "trend": "negative",
@@ -81,7 +72,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 25,
     "sector_name": "Infra",
     "performance_percent": "1.05",
     "trend": "positive",
@@ -90,7 +80,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 11,
     "sector_name": "Media & Entertainment",
     "performance_percent": "0.2",
     "trend": "positive",
@@ -99,7 +88,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 13,
     "sector_name": "Chemicals",
     "performance_percent": "0.7",
     "trend": "positive",
@@ -108,7 +96,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 14,
     "sector_name": "Capital Goods",
     "performance_percent": "0.8",
     "trend": "positive",
@@ -117,7 +104,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 18,
     "sector_name": "Energy",
     "performance_percent": "0.6",
     "trend": "positive",
@@ -126,7 +112,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 21,
     "sector_name": "Pharma",
     "performance_percent": "0.55",
     "trend": "positive",
@@ -135,7 +120,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 27,
     "sector_name": "PSU Banking",
     "performance_percent": "1.21",
     "trend": "positive",
@@ -144,7 +128,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 24,
     "sector_name": "Healthcare",
     "performance_percent": "0.45",
     "trend": "positive",
@@ -153,7 +136,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 34,
     "sector_name": "PSU Banks",
     "performance_percent": "0.95",
     "trend": "positive",
@@ -162,7 +144,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 1,
     "sector_name": "Information Technology",
     "performance_percent": "-0.32",
     "trend": "negative",
@@ -171,7 +152,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 4,
     "sector_name": "Pharmaceuticals",
     "performance_percent": "0.41",
     "trend": "positive",
@@ -180,7 +160,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 7,
     "sector_name": "Metals & Mining",
     "performance_percent": "0.59",
     "trend": "positive",
@@ -189,7 +168,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 8,
     "sector_name": "Oil & Gas",
     "performance_percent": "1.08",
     "trend": "positive",
@@ -198,7 +176,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 9,
     "sector_name": "Realty",
     "performance_percent": "1.63",
     "trend": "positive",
@@ -207,7 +184,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 12,
     "sector_name": "Infrastructure",
     "performance_percent": "0.95",
     "trend": "positive",
@@ -216,7 +192,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 16,
     "sector_name": "FMCG",
     "performance_percent": "0.27",
     "trend": "positive",
@@ -225,7 +200,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 28,
     "sector_name": "Real Estate",
     "performance_percent": "0.6",
     "trend": "positive",
@@ -234,7 +208,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 29,
     "sector_name": "Private Sector Banks",
     "performance_percent": "0.45",
     "trend": "positive",
@@ -243,7 +216,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 20,
     "sector_name": "Consumer Durables",
     "performance_percent": "0.7",
     "trend": "positive",
@@ -252,7 +224,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 23,
     "sector_name": "Media",
     "performance_percent": "0.15",
     "trend": "positive",
@@ -261,7 +232,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 5,
     "sector_name": "Fast Moving Consumer Goods",
     "performance_percent": "0.3",
     "trend": "positive",
@@ -270,7 +240,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 35,
     "sector_name": "Financials",
     "performance_percent": "0.65",
     "trend": "positive",
@@ -279,7 +248,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 36,
     "sector_name": "Automobiles",
     "performance_percent": "0.85",
     "trend": "positive",
@@ -288,7 +256,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 37,
     "sector_name": "Healthcare Services",
     "performance_percent": "0.5",
     "trend": "positive",
@@ -297,7 +264,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 26,
     "sector_name": "Metal & Mining",
     "performance_percent": "1.08",
     "trend": "positive",
@@ -306,7 +272,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 30,
     "sector_name": "Pharmaceuticals & Healthcare",
     "performance_percent": "0.75",
     "trend": "positive",
@@ -315,7 +280,6 @@
     "created_at": "2025-10-04"
   },
   {
-    "id": 10,
     "sector_name": "Public Sector Banks",
     "performance_percent": "2.35",
     "trend": "positive",
@@ -324,7 +288,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 31,
     "sector_name": "Automobiles & Components",
     "performance_percent": "0.88",
     "trend": "positive",

@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "ticker": "RELIANCE",
     "company_name": "Reliance Industries Ltd",
     "sector": "Oil & Gas",
@@ -17,7 +16,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 2,
     "ticker": "TCS",
     "company_name": "Tata Consultancy Services",
     "sector": "IT Services",
@@ -34,7 +32,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 3,
     "ticker": "HDFCBANK",
     "company_name": "HDFC Bank Ltd",
     "sector": "Banking",
@@ -51,7 +48,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 4,
     "ticker": "ITC",
     "company_name": "ITC Ltd",
     "sector": "FMCG",
@@ -68,7 +64,6 @@
     "created_at": "2025-09-30"
   },
   {
-    "id": 5,
     "ticker": "INFY",
     "company_name": "Infosys Ltd.",
     "sector": "Information Technology",
@@ -85,7 +80,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 6,
     "ticker": "ICICIBANK",
     "company_name": "ICICI Bank Ltd.",
     "sector": "Banking",
@@ -102,7 +96,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 7,
     "ticker": "RELIANCE",
     "company_name": "Reliance Industries Ltd.",
     "sector": "Conglomerate",
@@ -119,7 +112,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 8,
     "ticker": "HINDUNILVR",
     "company_name": "Hindustan Unilever Ltd.",
     "sector": "Fast Moving Consumer Goods (FMCG)",
@@ -136,7 +128,6 @@
     "created_at": "2025-10-03"
   },
   {
-    "id": 9,
     "ticker": "TATAMOTORS",
     "company_name": "Tata Motors Ltd.",
     "sector": "Automobile",
