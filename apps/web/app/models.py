@@ -76,7 +76,6 @@ class TechnicalIndicator(Base):
     resistance_level = Column(String)
     analysis_date = Column(Date)
     created_at = Column(Date)
-    stock = relationship("Stock")
 
 
 class SectorPerformance(Base):
